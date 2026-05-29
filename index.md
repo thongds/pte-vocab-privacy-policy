@@ -19,6 +19,6 @@ We do not sell your personal information. We may share data only when required b
 We keep your data while your account is active. You can request deletion by contacting us.
 
 ## Contact
-Email: contact@example.com
+Email: thongdsau@gmail.com
 
 Replace this placeholder email with your support email.
